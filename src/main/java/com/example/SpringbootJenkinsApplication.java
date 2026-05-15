@@ -8,6 +8,7 @@ public class SpringbootJenkinsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootJenkinsApplication.class, args);
+		System.out.println("This is from GitHub");
 	}
 
 }
